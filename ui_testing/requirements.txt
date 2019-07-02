@@ -1,0 +1,11 @@
+nose
+nose-progressive
+nose-testconfig
+nose_parameterized
+rednose
+selenium
+requests
+flaky
+pandas
+xlrd
+loguru
